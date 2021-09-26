@@ -1,0 +1,8 @@
+{
+    "author" : ["Howard Viva"],
+    "install_msg" : "You've just installed the Sakuraba cog!\nUse `[p]sakuraba` to generate titles!",
+    "name" : "Sakuraba",
+    "short" : "generate Sakurabaish titles",
+    "description" : "This plugin can be used to generate song titles that sound like they were written by Motoi Sakuraba",
+    "type" : "COG"
+}
